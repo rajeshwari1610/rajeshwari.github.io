@@ -1,0 +1,46 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.navstyling{
+    background-color: #f4bff4;
+    height:70px;
+    border:1px double #272932;
+    border-radius:25px;
+    
+}
+.homestyle{
+    border:1px solid black;
+    border-radius:30px;
+    margin-top:25px;
+    min-height:320px;
+
+}
+.footerstyling
+{
+    width:100%;
+    min-height:100px;
+    background-color:#070707;
+    border-radius:20px;
+}
+.footerstyling > h1{
+    color:white;
+    text-align:center;
+
+}
+
+.socilmedia > a {
+    color:white;
+    padding-left:2px;
+
+}
+button
+{
+margin-left:80px;
+padding:10px;
+background-color:#E7ECEF;
+border:2px solid black;
+border-radius:10px;
+
+}
